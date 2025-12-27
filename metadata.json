@@ -1,0 +1,8 @@
+{
+  "name": "Quick Tok Downloader & Tools",
+  "description": "The ultimate suite of TikTok utility tools for creators, including downloaders, growth calculators, text formatters, and design helpers—all working without external APIs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
